@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+
+#: layout.php:19
+msgid "Documentation"
+msgstr ""
+
+#: layout.php:80
+msgid "Light mode"
+msgstr ""
+
+#: layout.php:86
+msgid "Dark mode"
+msgstr ""
+
+#: layout.php:97
+msgid "Theme documentation"
+msgstr ""
+
+#: layout.php:112 template-parts/content-uk.php:6 template-parts/content.php:6
+msgid "How to Use Theme"
+msgstr ""
+
+#: layout.php:116 template-parts/content-uk.php:18
+#: template-parts/content.php:18
+msgid "Theme Options"
+msgstr ""
+
+#: layout.php:120 template-parts/content-uk.php:37
+#: template-parts/content.php:37
+msgid "Menu Options"
+msgstr ""
+
+#: layout.php:126 template-parts/content-uk.php:54
+#: template-parts/content.php:54
+msgid "Recommended Plugins"
+msgstr ""
+
+#: layout.php:129 template-parts/content-uk.php:79
+#: template-parts/content.php:79
+msgid "Files & Sources"
+msgstr ""
+
+#: layout.php:133
+#, php-format
+msgid "%s Go back"
+msgstr ""
+
+#: layout.php:153
+msgid "Theme Name"
+msgstr ""
+
+#: layout.php:157
+msgid "Theme Description"
+msgstr ""
+
+#: layout.php:162
+msgid "Theme Version"
+msgstr ""
+
+#: layout.php:167
+msgid "Author"
+msgstr ""
+
+#: layout.php:174
+#, php-format
+msgid "%s Information"
+msgstr ""
+
+#: layout.php:180
+#, php-format
+msgid "%s WordPress: %s"
+msgstr ""
+
+#: layout.php:183
+#, php-format
+msgid "%s PHP: %s"
+msgstr ""
+
+#: layout.php:186
+#, php-format
+msgid "%s OS: %s"
+msgstr ""
+
+#: layout.php:193
+#, php-format
+msgid ""
+"%s Be careful while editing the template. If not edited properly, the design "
+"layout may break completely."
+msgstr ""
+
+#: layout.php:197
+msgid "No support is provided for faulty customization."
+msgstr ""

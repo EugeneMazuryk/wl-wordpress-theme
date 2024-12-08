@@ -1,0 +1,247 @@
+#: functions.php:173
+msgid "Theme Widget"
+msgstr "Віджет теми"
+
+#: functions.php:247
+#, php-format
+msgid "Created %s with %s"
+msgstr "Створено %s з %s"
+
+#: functions.php:191
+#, php-format
+msgid "Powered by %s"
+msgstr "Працює на %s"
+
+#: widgets/weather.php:13
+msgid "Weather"
+msgstr "Погода"
+
+#: widgets/informer.php:55
+#, php-format
+msgid "%s version: %s"
+msgstr "%s версія: %s"
+
+#: widgets/weather.php:73
+msgid "Mon"
+msgstr "Пн"
+
+#: widgets/weather.php:73
+msgid "Tue"
+msgstr "Вт"
+
+#: widgets/weather.php:73
+msgid "Wed"
+msgstr "Ср"
+
+#: widgets/weather.php:73
+msgid "Thu"
+msgstr "Чт"
+
+#: widgets/weather.php:73
+msgid "Fri"
+msgstr "Пт"
+
+#: widgets/weather.php:73
+msgid "Sat"
+msgstr "Сб"
+
+#: widgets/weather.php:73
+msgid "Sun"
+msgstr "Нд"
+
+#: widgets/chat-gpt.php:33
+msgid "Enter your message..."
+msgstr "Введіть повідомлення..."
+
+#: widgets/chat-gpt.php:35
+msgid "Send"
+msgstr "Відправити"
+
+#: widgets/chat-gpt.php:296
+msgid "You are a virtual assistant who helps with tips on using the WordPress CMS."
+msgstr "Ти віртуальний помічник, який допомагає порадами щодо використання CMS WordPress."
+
+#: widgets/chat-gpt.php:358
+msgid "Sorry, we are having a problem executing your request, please try again."
+msgstr "Вибачте, при обробці вашого запиту виникла помилка, спробуйте ще раз."
+
+#: page-settings.php:35 page-settings.php:45
+msgid "General settings"
+msgstr "Загальні налаштування"
+
+msgid "Theme Settings"
+msgstr "Налаштування теми"
+
+#: page-settings.php:36
+msgid "Theme"
+msgstr "Тема"
+
+msgid "Plugin is required for the site"
+msgstr "Плагін є обов’язковим для роботи сайту"
+
+msgid "Edit Theme"
+msgstr "Редагувати тему"
+
+msgid "Update"
+msgstr "Оновити"
+
+msgid "Options Updated"
+msgstr "Налаштування оновлено"
+
+#: page-settings.php:46
+msgid "Settings"
+msgstr "Налаштування"
+
+#: page-settings.php:81
+msgid "Dashboard settings"
+msgstr "Налаштування майстерні"
+
+#: page-settings.php:84
+msgid "Dashboard menu"
+msgstr "Меню майстерні"
+
+#: page-settings.php:87
+msgid "Other settings"
+msgstr "Інші налаштування"
+
+#: page-settings.php:91
+msgid "WooCommerce settings"
+msgstr "WooCommerce налаштування"
+
+#: settings-dashboard-menu.php:34
+msgid "Hide menu item"
+msgstr "Приховати пункт меню"
+
+#: settings-dashboard-menu.php:64
+msgid ""
+"Select which menu items you wish to hide in the WordPress dashboard menu."
+msgstr "Виберіть елементи меню, які ви хочете приховати в меню інформаційної панелі WordPress."
+
+#: settings-dashboard.php:33
+msgid "Disable dashboard notices"
+msgstr "Вимкнути сповіщення"
+
+#: settings-dashboard.php:38
+msgid "Disable all dashboard notices in WordPress theme"
+msgstr "Вимкніть усі інформаційні сповіщення в адмін панелі WordPress"
+
+#: settings-dashboard.php:44
+msgid "Disable dashboard widgets"
+msgstr "Вимкнути карточки екрану"
+
+#: settings-dashboard.php:49
+msgid ""
+"Remove all dashboard widgets (except Site Health, Right Now, Activity and "
+"Woocommerce status)"
+msgstr "Видалити всі карточки з екрану майстерні (крім Стан здоров'я сайту, На виду, Діяльність, Woocommerce статус)"
+
+#: settings-dashboard.php:56
+msgid "Change Toolbar"
+msgstr "Змінити верхню панель"
+
+#: settings-dashboard.php:61
+msgid "Change default WordPress Toolbar and clear menu items"
+msgstr "Змінити верхню панель управління та очистити пункти меню"
+
+#: settings-dashboard.php:67
+msgid "Disable Gutenberg"
+msgstr "Вимкнути Gutenberg"
+
+#: settings-dashboard.php:72
+msgid "Replace the Gutenberg editor with the classic WordPress editor"
+msgstr "Замінить редактор Gutenberg на класичний редактор WordPress"
+
+#: settings-dashboard.php:97
+msgid ""
+"Select which dashboard settings to make it as easy as possible to configure "
+"it to suit your needs."
+msgstr "Виберіть налаштування Майстерні щоб максимально зручно сконфігурувати її роботу, відповідно до ваших потреб."
+
+msgid "Enable maintenance page"
+msgstr "Увімкнути сторінку обслуговування"
+
+msgid "Enable maintenance page on WordPress site"
+msgstr "Увімкніть сторінку обслуговування на сайті WordPress"
+
+msgid "Minify styles and scripts"
+msgstr "Мінімізувати стилі і скрипти"
+
+msgid "All styles and scripts connected to the theme will be minified"
+msgstr "Всі стилі та скрипти, пов'язані з темою, будуть мінімізовані"
+
+#: settings-other.php:32
+msgid "Disable emojis"
+msgstr "Вимкнути Emoji"
+
+#: settings-other.php:37
+msgid "Disable Emojis in WordPress theme"
+msgstr "Вимкнути підтримку Emojis в WordPress темі"
+
+#: settings-other.php:43
+msgid "Disable RSS Feeds"
+msgstr "Вимкнути RSS Feeds"
+
+#: settings-other.php:48
+msgid "Disable RSS Feeds in WordPress theme"
+msgstr "Вимкнути підтримку RSS Feeds в WordPress темі"
+
+msgid "Disable search page"
+msgstr "Вимкнути сторінку пошуку"
+
+msgid "Disable search page in WordPress theme and redirect all requests to 404 page"
+msgstr "Вимкнути сторінку пошуку в темі WordPress і перенаправити всі запити на сторінку 404"
+
+#: settings-other.php:54
+msgid "Remove archives"
+msgstr "Видалити архіви"
+
+#: settings-other.php:59
+msgid ""
+"Archive pages will be disabled and all links will be redirected to the main "
+"page"
+msgstr "Сторінки архівів будуть відключені, а всі посилання перенаправлені на головну сторінку"
+
+#: settings-other.php:84
+msgid ""
+"Select which theme settings to make it as easy as possible to configure it "
+"to suit your needs."
+msgstr "Виберіть налаштування теми щоб максимально зручно сконфігурувати її роботу, відповідно до ваших потреб."
+
+#: settings-woocommerce.php:36
+msgid "Enable product image zoom"
+msgstr "Включити збільшення зображення"
+
+#: settings-woocommerce.php:41
+msgid "Product image zoom on mouseover for WooCommerce"
+msgstr "Збільшення зображення при наведенні на товар в WooCommerce"
+
+#: settings-woocommerce.php:47
+msgid "Enable product gallery lightbox"
+msgstr "Включити галерею lightbox"
+
+#: settings-woocommerce.php:52
+msgid "Display the entire product gallery in the default WooCommerce lightbox"
+msgstr "Відображення галереї товару за допомогою lightbox в WooCommerce"
+
+#: settings-woocommerce.php:58
+msgid "Enable product gallery slider"
+msgstr "Включити слайдер"
+
+#: settings-woocommerce.php:63
+msgid "Product slider in WooCommerce default gallery section"
+msgstr "Відображення галереї товару за допомогою слайдера в WooCommerce"
+
+#: settings-woocommerce.php:89
+msgid ""
+"Select which WooCommerce settings to make it as easy as possible to "
+"configure it to suit your needs."
+msgstr "Виберіть налаштування WooCommerce щоб максимально зручно сконфігурувати його роботу, відповідно до ваших потреб."
+
+msgid "Website maintenance"
+msgstr "Обслуговування сайту"
+
+msgid "We&rsquo;ll be back soon!"
+msgstr "Ми скоро повернемося!"
+
+msgid "Sorry for the inconvenience but we&rsquo;re performing some maintenance at the moment. We&rsquo;ll be back online shortly!"
+msgstr "Вибачте за незручності, але зараз ми проводимо технічне обслуговування. Ми повернемося до роботи найближчим часом!"

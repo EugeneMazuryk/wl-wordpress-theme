@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+
+#: layout.php:19
+msgid "Documentation"
+msgstr "Документація"
+
+#: layout.php:80
+msgid "Light mode"
+msgstr "Світлий режим"
+
+#: layout.php:86
+msgid "Dark mode"
+msgstr "Темний режим"
+
+#: layout.php:97
+msgid "Theme documentation"
+msgstr "Документація теми"
+
+#: layout.php:112 template-parts/content-uk.php:6 template-parts/content.php:6
+msgid "How to Use Theme"
+msgstr "Як користуватися темою"
+
+#: layout.php:116 template-parts/content-uk.php:18
+#: template-parts/content.php:18
+msgid "Theme Options"
+msgstr "Налаштування теми"
+
+#: layout.php:120 template-parts/content-uk.php:37
+#: template-parts/content.php:37
+msgid "Menu Options"
+msgstr "Налаштування меню"
+
+#: layout.php:126 template-parts/content-uk.php:54
+#: template-parts/content.php:54
+msgid "Recommended Plugins"
+msgstr "Рекомендовані плагіни"
+
+#: layout.php:129 template-parts/content-uk.php:79
+#: template-parts/content.php:79
+msgid "Files & Sources"
+msgstr "Файли та ресурси"
+
+#: layout.php:133
+#, php-format
+msgid "%s Go back"
+msgstr "%s Назад"
+
+#: layout.php:153
+msgid "Theme Name"
+msgstr "Назва теми"
+
+#: layout.php:157
+msgid "Theme Description"
+msgstr "Опис теми"
+
+#: layout.php:162
+msgid "Theme Version"
+msgstr "Версія теми"
+
+#: layout.php:167
+msgid "Author"
+msgstr "Автор"
+
+#: layout.php:174
+#, php-format
+msgid "%s Information"
+msgstr "%s Інформація"
+
+#: layout.php:180
+#, php-format
+msgid "%s WordPress: %s"
+msgstr ""
+
+#: layout.php:183
+#, php-format
+msgid "%s PHP: %s"
+msgstr ""
+
+#: layout.php:186
+#, php-format
+msgid "%s OS: %s"
+msgstr ""
+
+#: layout.php:193
+#, php-format
+msgid "%s Be careful while editing the template. If not edited properly, the design layout may break completely."
+msgstr "%s Будьте обережні під час редагування шаблону. Якщо не відредагувати належним чином, макет дизайну може повністю зруйнуватися."
+
+#: layout.php:197
+msgid "No support is provided for faulty customization."
+msgstr "Підтримка неналежного налаштування не надається."

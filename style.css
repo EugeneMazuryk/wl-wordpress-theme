@@ -1,0 +1,39 @@
+/*!
+Theme Name: Weblorem Theme
+Theme URI: https://weblorem.com
+Author: WebLorem
+Author URI: https://weblorem.com
+Description: Custom WordPress theme with WooCommerce support.
+Version: 1.0
+Tested up to: 7.4
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: weblorem
+*/
+
+/* Lazy Load images effect */
+.wl-lazy-load {
+    height: auto;
+    filter: blur(5px);
+    transition: filter 0.5s ease, opacity 0.5s ease;
+    opacity: 1;
+    object-fit: cover;
+}
+
+.wl-lazy-load.loaded {
+    filter: none;
+    opacity: 1;
+}
+
+/* end Lazy Load images effect */
+
+/* Form errors */
+input.error {
+    border-bottom: 1px solid #fb5b5b !important;
+}
+
+.error-message {
+    font-size: smaller;
+    color: #fb5b5b
+}
