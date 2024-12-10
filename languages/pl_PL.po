@@ -1,0 +1,154 @@
+#.  Theme Name of the theme
+msgid "weblorem"
+msgstr ""
+
+#.  Description of the theme
+msgid "Custom WordPress theme with WooCommerce support."
+msgstr "Niestandardowy motyw WordPress z obsługą WooCommerce."
+
+#.  Author of the theme
+msgid "Eugene Mazuryk"
+msgstr "Eugeniusz Mazuryk"
+
+#.  Author URI of the theme
+msgid "https://weblorem.com"
+msgstr ""
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: comments.php:36
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Ups! Nie można znaleźć tej strony."
+
+#: comments.php:42
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s komentar do &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s komentarze do &ldquo;%2$s&rdquo;"
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr "Możliwość dodawania komentarzy nie jest dostępna."
+
+#: footer.php:16
+msgid "https://wordpress.org"
+msgstr ""
+
+#: footer.php:19
+#, php-format
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: footer.php:25
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr "Motyw: %1$s z %2$s."
+
+#: search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Wyniki wyszukiwania dla: %s"
+
+#: inc/acf.php:35 inc/cf7.php:21 inc/polylang.php:36
+msgid "Plugin is required for the site"
+msgstr "Wtyczka jest wymagana dla strony"
+
+#: inc/acf.php:66 inc/acf.php:75 inc/acf.php:98
+msgid "General settings"
+msgstr "Ogólne ustawienia"
+
+#: inc/acf.php:67 inc/acf.php:70
+msgid "Theme"
+msgstr "Motyw"
+
+#: inc/acf.php:76 inc/acf.php:99 inc/admin/theme-settings-page.php:244
+#: inc/admin/theme-settings-page.php:249
+msgid "Edit Theme"
+msgstr "Edytuj motyw"
+
+#: inc/acf.php:79 inc/acf.php:102
+msgid "Update"
+msgstr "Aktualizacja"
+
+#: inc/acf.php:80 inc/acf.php:103
+msgid "Options Updated"
+msgstr "Zaktualizowano opcje"
+
+#: inc/ajax.php:42
+msgid "Ajax Error!"
+msgstr ""
+
+#: inc/ajax.php:64 inc/ajax.php:68
+msgid "Required field."
+msgstr "Pole wymagane."
+
+#: inc/ajax.php:70
+msgid "Check phone number."
+msgstr "Sprawdź numer telefonu."
+
+#: inc/ajax.php:79
+msgid "Message sent!"
+msgstr "Wiadomość wysłana!"
+
+#: inc/ajax.php:85
+msgid "Error sending message!"
+msgstr "Błąd podczas wysyłania wiadomości!"
+
+#: inc/ajax.php:90
+msgid "Check that the form data is filled in correctly."
+msgstr "Sprawdź, czy dane formularza są poprawnie wypełnione."
+
+#: inc/helpers.php:169
+msgid "Name"
+msgstr "Nazwa"
+
+#: inc/helpers.php:170
+msgid "Phone"
+msgstr "Telefon"
+
+#: inc/helpers.php:172
+msgid "Message"
+msgstr "Wiadomość"
+
+#: inc/nav_menus.php:16
+msgid "Main menu"
+msgstr "Menu główne"
+
+#: inc/pagination.php:33
+msgid "Previous"
+msgstr "Poprzedni"
+
+#: inc/pagination.php:34
+msgid "Next"
+msgstr "Następny"
+
+#: inc/sidebars.php:18
+msgid "Sidebar"
+msgstr "Pasek boczny"
+
+#: inc/sidebars.php:20
+msgid "Add widgets here."
+msgstr "Dodaj widżety tutaj."
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "Nic nie znaleziono"
+
+#: index.php:9085
+msgid "A starter WordPress theme for creating websites."
+msgstr "Początkowy motyw WordPress do tworzenia stron internetowych."
+
+#: index.php:9091
+msgid "Go to theme settings"
+msgstr "Przejdź do ustawień motywu"
+
+#: page.php:23
+msgid "Page is not assigned template!"
+msgstr "Strona nie ma przypisanego szablonu!"
+
+##########################################  Template translate  ########################################################

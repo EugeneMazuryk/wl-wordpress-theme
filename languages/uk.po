@@ -1,0 +1,163 @@
+#.  Theme Name of the theme
+msgid "weblorem"
+msgstr ""
+
+#.  Description of the theme
+msgid "Custom WordPress theme with WooCommerce support."
+msgstr "Тема WordPress з підтримкою WooCommerce."
+
+#.  Author of the theme
+msgid "Eugene Mazuryk"
+msgstr "Мазурик Євген"
+
+#.  Author URI of the theme
+msgid "https://weblorem.com"
+msgstr ""
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой! Цю сторінку неможливо знайти."
+
+#: comments.php:36
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Коментар до &ldquo;%1$s&rdquo;"
+
+#: comments.php:42
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s коментар до &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s коментарі до &ldquo;%2$s&rdquo;"
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr "Коментарі закриті."
+
+#: footer.php:16
+msgid "https://wordpress.org"
+msgstr ""
+
+#: footer.php:19
+#, php-format
+msgid "Proudly powered by %s"
+msgstr "Працює на %s"
+
+#: footer.php:25
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr "Тема: %1$s від %2$s."
+
+#: search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результати пошуку для: %s"
+
+#: inc/acf.php:35 inc/cf7.php:21 inc/polylang.php:36
+msgid "Plugin is required for the site"
+msgstr "Плагін є обов’язковим для роботи сайту"
+
+#: inc/acf.php:66 inc/acf.php:75 inc/acf.php:98
+msgid "General settings"
+msgstr "Загальні налаштування"
+
+#: inc/acf.php:67 inc/acf.php:70
+msgid "Theme"
+msgstr "Тема"
+
+#: inc/acf.php:76 inc/acf.php:99 inc/admin/theme-settings-page.php:244
+#: inc/admin/theme-settings-page.php:249
+msgid "Edit Theme"
+msgstr "Редагувати тему"
+
+#: inc/acf.php:79 inc/acf.php:102
+msgid "Update"
+msgstr "Оновити"
+
+#: inc/acf.php:80 inc/acf.php:103
+msgid "Options Updated"
+msgstr "Налаштування оновлено"
+
+#: inc/ajax.php:42
+msgid "Ajax Error!"
+msgstr ""
+
+msgid "Invalid nonce verification."
+msgstr "Недійсна перевірка nonce."
+
+#: inc/ajax.php:64 inc/ajax.php:68
+msgid "Required field."
+msgstr "Не заповнено обов’язкове поле."
+
+msgid "Check email address."
+msgstr "Перевірте адресу електронної пошти."
+
+#: inc/ajax.php:70
+msgid "Check phone number."
+msgstr "Перевірте вказаний номер телефону."
+
+msgid "The value cannot be more than %d characters."
+msgstr "Значення не може перевищувати %d символів."
+
+#: inc/ajax.php:79
+msgid "Message sent!"
+msgstr "Повідомлення відправлено!"
+
+#: inc/ajax.php:85
+msgid "Error sending message!"
+msgstr "Помилка відправлення повідомлення!"
+
+#: inc/ajax.php:90
+msgid "Check that the form data is filled in correctly."
+msgstr "Перевірте чи правильно заповнені дані форми."
+
+#: inc/helpers.php:169
+msgid "Name"
+msgstr "Ім’я"
+
+#: inc/helpers.php:170
+msgid "Phone"
+msgstr "Телефон"
+
+#: inc/helpers.php:172
+msgid "Message"
+msgstr "Повідомлення"
+
+#: inc/nav_menus.php:16
+msgid "Main menu"
+msgstr "Головне меню"
+
+#: inc/pagination.php:33
+msgid "Previous"
+msgstr "Попередні"
+
+#: inc/pagination.php:34
+msgid "Next"
+msgstr "Наступні"
+
+#: inc/sidebars.php:18
+msgid "Sidebar"
+msgstr "Сайдбар"
+
+#: inc/sidebars.php:20
+msgid "Add widgets here."
+msgstr "Додайте віджети тут."
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "Нічого не знайдено"
+
+#: index.php:9085
+msgid "A starter WordPress theme for creating websites."
+msgstr "Початкова тема WordPress для створення вебсайтів."
+
+#: index.php:9091
+msgid "Go to theme settings"
+msgstr "Перейти до налаштувань теми"
+
+#: page.php:23
+msgid "Page is not assigned template!"
+msgstr "Сторінці не призначено шаблон!"
+
+##########################################  Template translate  ########################################################

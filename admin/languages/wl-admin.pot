@@ -1,0 +1,247 @@
+#: functions.php:173
+msgid "Theme Widget"
+msgstr ""
+
+#: functions.php:247
+#, php-format
+msgid "Created %s with %s"
+msgstr ""
+
+#: functions.php:191
+#, php-format
+msgid "Powered by %s"
+msgstr ""
+
+#: widgets/informer.php:55
+#, php-format
+msgid "%s version: %s"
+msgstr ""
+
+#: widgets/weather.php:13
+msgid "Weather"
+msgstr ""
+
+#: widgets/weather.php:73
+msgid "Mon"
+msgstr ""
+
+#: widgets/weather.php:73
+msgid "Tue"
+msgstr ""
+
+#: widgets/weather.php:73
+msgid "Wed"
+msgstr ""
+
+#: widgets/weather.php:73
+msgid "Thu"
+msgstr ""
+
+#: widgets/weather.php:73
+msgid "Fri"
+msgstr ""
+
+#: widgets/weather.php:73
+msgid "Sat"
+msgstr ""
+
+#: widgets/weather.php:73
+msgid "Sun"
+msgstr ""
+
+#: widgets/chat-gpt.php:33
+msgid "Enter your message..."
+msgstr ""
+
+#: widgets/chat-gpt.php:35
+msgid "Send"
+msgstr ""
+
+#: widgets/chat-gpt.php:296
+msgid "You are a virtual assistant who helps with tips on using the WordPress CMS."
+msgstr ""
+
+#: widgets/chat-gpt.php:358
+msgid "Sorry, we are having a problem executing your request, please try again."
+msgstr ""
+
+#: page-settings.php:35 page-settings.php:45
+msgid "General settings"
+msgstr ""
+
+msgid "Theme Settings"
+msgstr ""
+
+msgid "Plugin is required for the site"
+msgstr ""
+
+msgid "Edit Theme"
+msgstr ""
+
+msgid "Update"
+msgstr ""
+
+msgid "Options Updated"
+msgstr ""
+
+#: page-settings.php:36
+msgid "Theme"
+msgstr ""
+
+#: page-settings.php:46
+msgid "Settings"
+msgstr ""
+
+#: page-settings.php:81
+msgid "Dashboard settings"
+msgstr ""
+
+#: page-settings.php:84
+msgid "Dashboard menu"
+msgstr ""
+
+#: page-settings.php:87
+msgid "Other settings"
+msgstr ""
+
+#: page-settings.php:91
+msgid "WooCommerce settings"
+msgstr ""
+
+#: settings-dashboard-menu.php:34
+msgid "Hide menu item"
+msgstr ""
+
+#: settings-dashboard-menu.php:64
+msgid ""
+"Select which menu items you wish to hide in the WordPress dashboard menu."
+msgstr ""
+
+#: settings-dashboard.php:33
+msgid "Disable dashboard notices"
+msgstr ""
+
+#: settings-dashboard.php:38
+msgid "Disable all dashboard notices in WordPress theme"
+msgstr ""
+
+#: settings-dashboard.php:44
+msgid "Disable dashboard widgets"
+msgstr ""
+
+#: settings-dashboard.php:49
+msgid ""
+"Remove all dashboard widgets (except Site Health, Right Now, Activity and "
+"Woocommerce status)"
+msgstr ""
+
+#: settings-dashboard.php:56
+msgid "Change Toolbar"
+msgstr ""
+
+#: settings-dashboard.php:61
+msgid "Change default WordPress Toolbar and clear menu items"
+msgstr ""
+
+#: settings-dashboard.php:67
+msgid "Disable Gutenberg"
+msgstr ""
+
+#: settings-dashboard.php:72
+msgid "Replace the Gutenberg editor with the classic WordPress editor"
+msgstr ""
+
+#: settings-dashboard.php:97
+msgid ""
+"Select which dashboard settings to make it as easy as possible to configure "
+"it to suit your needs."
+msgstr ""
+
+msgid "Enable maintenance page"
+msgstr ""
+
+msgid "Enable maintenance page on WordPress site"
+msgstr ""
+
+msgid "Minify styles and scripts"
+msgstr ""
+
+msgid "All styles and scripts connected to the theme will be minified"
+msgstr ""
+
+#: settings-other.php:32
+msgid "Disable emojis"
+msgstr ""
+
+#: settings-other.php:37
+msgid "Disable Emojis in WordPress theme"
+msgstr ""
+
+#: settings-other.php:43
+msgid "Disable RSS Feeds"
+msgstr ""
+
+#: settings-other.php:48
+msgid "Disable RSS Feeds in WordPress theme"
+msgstr ""
+
+msgid "Disable search page"
+msgstr ""
+
+msgid "Disable search page in WordPress theme and redirect all requests to 404 page"
+msgstr ""
+
+#: settings-other.php:54
+msgid "Remove archives"
+msgstr ""
+
+#: settings-other.php:59
+msgid ""
+"Archive pages will be disabled and all links will be redirected to the main "
+"page"
+msgstr ""
+
+#: settings-other.php:84
+msgid ""
+"Select which theme settings to make it as easy as possible to configure it "
+"to suit your needs."
+msgstr ""
+
+#: settings-woocommerce.php:36
+msgid "Enable product image zoom"
+msgstr ""
+
+#: settings-woocommerce.php:41
+msgid "Product image zoom on mouseover for WooCommerce"
+msgstr ""
+
+#: settings-woocommerce.php:47
+msgid "Enable product gallery lightbox"
+msgstr ""
+
+#: settings-woocommerce.php:52
+msgid "Display the entire product gallery in the default WooCommerce lightbox"
+msgstr ""
+
+#: settings-woocommerce.php:58
+msgid "Enable product gallery slider"
+msgstr ""
+
+#: settings-woocommerce.php:63
+msgid "Product slider in WooCommerce default gallery section"
+msgstr ""
+
+#: settings-woocommerce.php:89
+msgid ""
+"Select which WooCommerce settings to make it as easy as possible to "
+"configure it to suit your needs."
+msgstr ""
+
+msgid "Website maintenance"
+msgstr ""
+
+msgid "We&rsquo;ll be back soon!"
+msgstr ""
+
+msgid "Sorry for the inconvenience but we&rsquo;re performing some maintenance at the moment. We&rsquo;ll be back online shortly!"
+msgstr ""
