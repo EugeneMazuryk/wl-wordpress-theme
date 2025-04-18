@@ -1043,3 +1043,12 @@ if ( ! function_exists( 'wl_get_utm_tags' ) ) {
 		return $utm_tags;
 	}
 }
+
+/**
+ * Adds zero to numbers if they are less than 10
+ */
+if ( ! function_exists( 'wl_add_zero' ) ) {
+	function wl_add_zero( $number ) {
+		return str_pad( $number, 2, '0', STR_PAD_LEFT );
+	}
+}

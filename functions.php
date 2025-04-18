@@ -95,14 +95,14 @@ if ( ! defined( 'THEME_UPLOADS_DIR' ) ) {
 require_once THEME_DIR . 'inc/setup-theme.php';
 
 /**
- * Helper functions which enhance the theme.
- */
-require_once THEME_DIR . 'inc/theme-helpers.php';
-
-/**
  * Include theme Admin functions.
  */
 require_once THEME_DIR . 'admin/functions.php';
+
+/**
+ * Helper functions which enhance the theme.
+ */
+require_once THEME_DIR . 'inc/theme-helpers.php';
 
 /**
  * Functions, actions and filters which enhance the theme.

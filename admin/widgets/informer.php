@@ -23,7 +23,7 @@ if ( ! function_exists( 'wl_add_to_dashboard_informer_widget_function' ) ) {
  */
 if ( ! function_exists( 'wl_informer_widget_output_html_callback_function' ) ) {
 	function wl_informer_widget_output_html_callback_function() {
-		global $wp_theme;
+		$wp_theme = wp_get_theme();
 
 		ob_start();
 		?>
